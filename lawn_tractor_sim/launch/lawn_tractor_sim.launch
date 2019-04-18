@@ -45,6 +45,10 @@
 	<param name="controller_patience" value="15.0" />
 </node>
 
+<!-- ****** Path  ***** -->
+<node name="paths" pkg="lawn_tractor_sim" type="path_publisher.py" output="log">
+	<param name="path_test" value="generated_points.txt"/>
+</node>
 
 <!-- ****** Maps ***** -->
 <node name="map_server" pkg="map_server" type="map_server"
