@@ -1,10 +1,12 @@
 # ROS sobre Minitractor Corta Cesped
-Software, hardware y esquemas para la construcción de un tractor con piloto automático. Uno de los principales objetivos es que este y todos los demás documentos queden en español.
-
+Este repositorio tiene como objetivo contener el software, hardware, esquemas del proceso de desarrollo y la experiencia misma de la implementación ROS en un minitractor corta cesped (pasto).
 
 ![Tractor que presento Matt en la AgBot 2019](https://github.com/ros-agriculture/ros_lawn_tractor/blob/master/ros_lawn_tractor.png)
 
 https://youtu.be/MUbRY6LcDrI
+
+## Contexto.
+Durante los últimos tres años he asistido a la AgBot, pude constatar personalmente el crecimiento de ROS en la escena de robotización de agro y en estas reuniones conocí a Matt Droter. Como una cosa lleva a la otra Matt se ofreció a darnos una mano en el desarrollo de un prototipo y los que participamos en este proyecto creemos que es algo muy importante para el sector agropecuario y digno de dedicar tiempo.
 
 ## Como usar el simulador?
 El simulador usa ROS Navigation y TEB Planner: https://youtu.be/JuZ8gpx9oO4
