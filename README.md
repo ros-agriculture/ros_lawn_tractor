@@ -1,12 +1,13 @@
-# ros_lawn_tractor
-Software for self driving lawn tractor.
+# ROS sobre Minitractor Corta Cesped 
+Software, hardware y esquemas para la construcción de un tractor con piloto automático.
+
 
 ![alt text](https://github.com/ros-agriculture/ros_lawn_tractor/blob/master/ros_lawn_tractor.png)
 
 https://youtu.be/MUbRY6LcDrI
 
-## How to use the simulator?
-Simulator uses ROS Navigation and TEB Planner: https://youtu.be/JuZ8gpx9oO4
+## Como usar el simulador?
+El simulador usa ROS Navigation y TEB Planner: https://youtu.be/JuZ8gpx9oO4
 
 ## Cloud Based Simulation
 Tutorial on running the lawn tractor simulator: https://www.loom.com/share/c9868920819a466d827d522a2aa76c8e  
@@ -20,7 +21,7 @@ This simulator runs on Ubuntu 16.04 and ROS Kinetic.
 <pre>
 
 prompt$ cd catkin_ws/src
-prompt/catkin_ws/src$ git clone https://github.com/ros-agriculture/ros_lawn_tractor.git 
+prompt/catkin_ws/src$ git clone https://github.com/ros-agriculture/ros_lawn_tractor.git
 prompt/catkin_ws/src$ git clone https://github.com/bsb808/geonav_transform.git
 prompt/catkin_ws/src$ cd ..
 prompt/catkin_ws$ rosdep update
@@ -55,7 +56,7 @@ docker/prompt$ roslaunch lawn_tractor_sim lawn_tractor_sim.launch
 <br /><br />
 
 ## Licensing
-ros_lawn_tractor is released under the MIT license. 
+ros_lawn_tractor is released under the MIT license.
 
 Any user of this software shall indemnify and hold harmless ROS Agriculture O&Uuml;. and its directors, officers, employees, agents, stockholders, affiliates, subcontractors and customers from and against all allegations, claims, actions, suits, demands, damages, liabilities, obligations, losses, settlements, judgments, costs and expenses (including without limitation attorneys’ fees and costs) which arise out of, relate to or result from any use of this software by user.
 
