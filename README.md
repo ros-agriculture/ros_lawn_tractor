@@ -6,7 +6,7 @@ Este repositorio tiene como objetivo contener el software, hardware, esquemas de
 https://youtu.be/MUbRY6LcDrI
 
 ## Contexto.
-Durante los últimos tres años he asistido a la AgBot, pude constatar personalmente el crecimiento de ROS en la escena de robotización de agro y en estas reuniones conocí a Matt Droter. Como una cosa lleva a la otra Matt se ofreció a darnos una mano en el desarrollo de un prototipo y los que participamos en este proyecto creemos que es algo muy importante para el sector agropecuario y digno de dedicar tiempo.
+Durante los últimos tres años he asistido a la AgBot, pude constatar personalmente el crecimiento de ROS en la escena de robotización de agro y en estas reuniones conocí a Matt Droter. Como una cosa lleva a la otra Matt se ofreció a darnos una mano en el desarrollo de un prototipo y los que participamos en este proyecto creemos que es algo muy importante para el sector agropecuario y digno de dedicar tiempo. Claramente como objetivo principal es todos los documentos queden en español y posteriormente si nos da tiempo la vida en portugués (brasilero).
 
 ## Como usar el simulador?
 El simulador usa ROS Navigation y TEB Planner: https://youtu.be/JuZ8gpx9oO4
