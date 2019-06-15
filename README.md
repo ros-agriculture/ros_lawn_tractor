@@ -21,55 +21,6 @@ https://rosagriculture.slack.com/messages/GK8UTNMGS
 
 Para todo lo demás esta la [wiki de este proyecto](https://github.com/rje1974/ros_lawn_tractor/wiki).
 
-## Como usar el simulador?
-El simulador usa ROS Navigation y TEB Planner: https://youtu.be/JuZ8gpx9oO4
-
-## Simulación en la nueve
-Tutorial sobre utilizacion del simulador de la cortadora de pasto: https://www.loom.com/share/c9868920819a466d827d522a2aa76c8e  
-Archivo ROSJect con el simulador ya cargado:  http://www.rosject.io/l/8e95478/
-
-## Instalación local
-Si Usted no tiene Ubuntu 16.04 instalado en su comutadora corriendo ROS Kinetic.  Este código https://github.com/linorobot/rosme de LinoRobot (https://linorobot.org/) instalará ROS por usted.
-
-Este simulador corre en Ubuntu 16.04 y ROS Kinetic.
-
-<pre>
-
-prompt$ cd catkin_ws/src
-prompt/catkin_ws/src$ git clone https://github.com/ros-agriculture/ros_lawn_tractor.git
-prompt/catkin_ws/src$ git clone https://github.com/bsb808/geonav_transform.git
-prompt/catkin_ws/src$ cd ..
-prompt/catkin_ws$ rosdep update
-prompt/catkin_ws$ rosdep install -y --from-paths . --ignore-src --rosdistro ${ROS_DISTRO}
-prompt/catkin_ws$ sudo apt-get install python-catkin-tools
-prompt/catkin_ws$ catkin build
-prompt/catkin_ws$ source devel/setup.bash
-#Add new catkin build source to your startup script.
-prompt/catkin_ws$ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
-prompt/catkin_ws$ roslaunch lawn_tractor_sim lawn_tractor_sim.launch
-</pre>
-
-## Docker
-If you have docker installed skip to Download Start File.<br />
-<br />
-**Install Docker** <br />
-Docker install instructions - https://docs.docker.com/install/ <br />
-<br />
-
-**Download Start File**<br />
-<pre>
-prompt$ wget https://raw.githubusercontent.com/ros-agriculture/ros_lawn_tractor/master/docker/start.sh
-prompt$ chmod +x start.sh
-prompt$ ./start.sh
-</pre>
-..... wait for image to download ......
-<pre>
-docker/prompt$ roslaunch lawn_tractor_sim lawn_tractor_sim.launch
-</pre>
-
-<br /><br />
-<br /><br />
-
 ## Licenciamiento
 ros_lawn_tractor esta bajo licencia MIT.
 
