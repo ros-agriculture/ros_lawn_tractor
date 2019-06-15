@@ -14,9 +14,9 @@ Tutorial sobre utilizacion del simulador de la cortadora de pasto: https://www.l
 Archivo ROSJect con el simulador ya cargado:  http://www.rosject.io/l/8e95478/
 
 ## Instalación local
-If you don't have a Ubuntu 16.04 computer running ROS Kinetic.  This script https://github.com/linorobot/rosme provided by LinoRobot (https://linorobot.org/) will install ROS for you.
+Si Usted no tiene Ubuntu 16.04 instalado en su comutadora corriendo ROS Kinetic.  Este código https://github.com/linorobot/rosme de LinoRobot (https://linorobot.org/) instalará ROS por usted.
 
-This simulator runs on Ubuntu 16.04 and ROS Kinetic.
+Este simulador corre en Ubuntu 16.04 y ROS Kinetic.
 
 <pre>
 
@@ -55,7 +55,7 @@ docker/prompt$ roslaunch lawn_tractor_sim lawn_tractor_sim.launch
 <br /><br />
 <br /><br />
 
-## Licensing
+## Licenciamiento
 ros_lawn_tractor esta bajo licencia MIT.
 
 Todo usuario de este software deberá indemnify y mantener libre de daño y responsabilidad ROS Agriculture O&Uuml;. y sus directores, oficiales, empleado, accionistas, afiliados, sub-contratistas, y clientes de y contra todo tipo de alegatos, reclamos, acciones legales, petición, demandas, daños, reclamos, obligaciones, perdidas, acuerdo, juicios, costos, expensas (incluidas comisiones y costos de abogados) que se pudieran generar de forma directa o indirecta del uso de este software por el usuario o quien fuera.
