@@ -1,19 +1,19 @@
-# ROS sobre Minitractor Corta Cesped 
-Software, hardware y esquemas para la construcción de un tractor con piloto automático.
+# ROS sobre Minitractor Corta Cesped
+Software, hardware y esquemas para la construcción de un tractor con piloto automático. Uno de los principales objetivos es que este y todos los demás documentos queden en español.
 
 
-![alt text](https://github.com/ros-agriculture/ros_lawn_tractor/blob/master/ros_lawn_tractor.png)
+![Tractor que presento Matt en la AgBot 2019](https://github.com/ros-agriculture/ros_lawn_tractor/blob/master/ros_lawn_tractor.png)
 
 https://youtu.be/MUbRY6LcDrI
 
 ## Como usar el simulador?
 El simulador usa ROS Navigation y TEB Planner: https://youtu.be/JuZ8gpx9oO4
 
-## Cloud Based Simulation
-Tutorial on running the lawn tractor simulator: https://www.loom.com/share/c9868920819a466d827d522a2aa76c8e  
-ROSJect file with simulator already loaded:  http://www.rosject.io/l/8e95478/
+## Simulación en la nueve
+Tutorial sobre utilizacion del simulador de la cortadora de pasto: https://www.loom.com/share/c9868920819a466d827d522a2aa76c8e  
+Archivo ROSJect con el simulador ya cargado:  http://www.rosject.io/l/8e95478/
 
-## Local Install
+## Instalación local
 If you don't have a Ubuntu 16.04 computer running ROS Kinetic.  This script https://github.com/linorobot/rosme provided by LinoRobot (https://linorobot.org/) will install ROS for you.
 
 This simulator runs on Ubuntu 16.04 and ROS Kinetic.
