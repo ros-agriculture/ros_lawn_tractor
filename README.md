@@ -11,10 +11,11 @@ Este es un proyecto abierto. Si usted esta interesado en participar esta mas que
 
 Grupo Whatsapp ROS Agricultura Argentina.
 https://chat.whatsapp.com/FK1hUuH3ac3ExXbGrR0gs1
+
 Grupo SLACK ROS Agricultura Argentina.
 https://rosagriculture.slack.com/messages/GK8UTNMGS
 
-Para todo lo demás esta la [wiki de este proyecto](https://github.com/rje1974/ros_lawn_tractor/wiki).
+Para todo lo demás esta la [wiki de este proyecto](https://github.com/rje1974/ros_lawn_tractor/wiki) donde se pone TODO.
 
 ## Licenciamiento
 ros_lawn_tractor esta bajo licencia MIT. Todo usuario de este software deberá indemnify y mantener libre de daño y responsabilidad ROS Agriculture O&Uuml;. y sus directores, oficiales, empleado, accionistas, afiliados, sub-contratistas, y clientes de y contra todo tipo de alegatos, reclamos, acciones legales, petición, demandas, daños, reclamos, obligaciones, perdidas, acuerdo, juicios, costos, expensas (incluidas comisiones y costos de abogados) que se pudieran generar de forma directa o indirecta del uso de este software por el usuario o quien fuera.
