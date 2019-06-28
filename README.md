@@ -25,6 +25,6 @@ https://rosagriculture.slack.com/messages/GK8UTNMGS
 + [Whatsapp](https://wa.me/5492392520561) al coordinador del grupo.
 
 ## Licenciamiento
-ros_lawn_tractor esta bajo licencia MIT. Todo usuario de este software deberá indemnify y mantener libre de daño y responsabilidad ROS Agriculture O&Uuml;. y sus directores, oficiales, empleado, accionistas, afiliados, sub-contratistas, y clientes de y contra todo tipo de alegatos, reclamos, acciones legales, petición, demandas, daños, reclamos, obligaciones, perdidas, acuerdo, juicios, costos, expensas (incluidas comisiones y costos de abogados) que se pudieran generar de forma directa o indirecta del uso de este software por el usuario o quien fuera.
+ros_lawn_tractor esta bajo licencia MIT. Todo usuario de este software deberá indemnizar y mantener libre de daño y responsabilidad ROS Agriculture y sus directores, oficiales, empleado, accionistas, afiliados, sub-contratistas, y clientes de y contra todo tipo de alegatos, reclamos, acciones legales, petición, demandas, daños, reclamos, obligaciones, perdidas, acuerdo, juicios, costos, expensas (incluidas comisiones y costos de abogados) que se pudieran generar de forma directa o indirecta del uso de este software por el usuario o quien fuera.
 
 ESTO ES SOFTWARE DE CALIDAD ALFA PARA USO EN INVESTIGACIÓN SOLAMENTE. ESTO NO ES UN PRODUCTO. USTED ES RESPONSABLE DE CUMPLIMENTAR LAS LEYES LOCALES Y REGULACIONES APLICABLES. NO HAY GARANTÍA DE NINGÚN TIPO SOBRE ESTOS PRODUCTOS.
