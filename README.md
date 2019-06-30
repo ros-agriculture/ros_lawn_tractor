@@ -1,7 +1,7 @@
 ![Logo ROS Agriculture](https://raw.githubusercontent.com/rje1974/ros_lawn_tractor/master/site/photo/18500762.png)
 
-# Ejemplo de implementacin de ROS sobre Minitractor Corta Cesped
-Este repositorio se inicia como un fork del proyecto [ROS Lawn Tractor](https://github.com/ros-agriculture/ros_lawn_tractor) y tiene como objetivo contener el software, hardware, esquemas del proceso de desarrollo y la experiencia misma de la implementación ROS en un minitractor corta césped (pasto).
+# Ejemplo de implementación de ROS sobre Minitractor Corta Cesped
+Este repositorio se inicia como un fork del proyecto [ROS Lawn Tractor](https://github.com/ros-agriculture/ros_lawn_tractor) y tiene como objetivo que la reproducción de ese proceso sea un puente para que la academia, industria metalmecánica y el sector agropecuarios de argentina se [apropien de este conjunto de tecnologías](https://es.wikipedia.org/wiki/Apropiaci%C3%B3n_tecnol%C3%B3gica). Con el objeto de lograr lo anterior se hará incapié en la documentacion y por esto le pedimos que navegue nuestra wiki, que es el corazón del proyecto. Esas descripciones incluyen: el software, hardware, comentarios, esquemas del proceso y la experiencia misma de la implementación de ROS en un "tractorcito" y documentar todo para que sea tecnologicamente apropiable. Por esto se hará incapié en la documentacion.
 
 [![Tractor que presento Matt en la AgBot 2019](https://github.com/ros-agriculture/ros_lawn_tractor/blob/master/ros_lawn_tractor.png)](https://youtu.be/MUbRY6LcDrI)
 
