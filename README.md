@@ -11,6 +11,21 @@ Este proyecto tiene como objetivo lograr reproducir en Argentina todo el proceso
 ## Contexto.
 Durante los últimos tres años he asistido a la AgBot, pude constatar personalmente el crecimiento de ROS en la escena de robotización de agro y en estas reuniones conocí a [Matt Droter](https://github.com/droter). Como una cosa lleva a la otra Matt se ofreció a darnos una mano en el desarrollo de un prototipo y los que participamos en este proyecto creemos que es algo muy importante para el sector agropecuario y digno de dedicar tiempo. Claramente como objetivo principal es todos los documentos queden en español y posteriormente si nos da tiempo la vida en portugués (brasilero). La [wiki de este proyecto](https://github.com/rje1974/ros_lawn_tractor/wiki) donde se pone TODO.
 
+## Plan de trabajo.
+El plan de trabajo esta marcado por la fecha de arribo de Droter a Argentina que es el viernes 16 de agosto de 2019 y su partida el día 25 de agosto de 2019, . En las generales el plan de trabajo contempla lo siguiente.
+- Organizar el viaje del Sr. Droter.
+- Comunicar el proyecto.
+- Planear el proyecto.
+- Acopiar los materiales.
+- Probar los materiales.
+- Reproducir el proceso en modo prueba.
+- Ejecutar el proyecto.
+- Documentar la ejecución del proceso.
+- Analizar lo sucedido.
+- Evaluar los pasos a seguir.
+
+Si Usted quiere ver algo mas detallado, lo puede ver aquí.
+
 ## Participación.
 Este es un proyecto abierto e inclusivo, o sea que mientras tengas ganas de ayudar estas invitado a participar. Necesitamos gente con conocimientos en: mecánica, electrónica, programación, cocción de carne, documentación, cebado de mate y cosas que todavia no sabemos en las cuales seguro cuadras. Solo debe de presentarse en alguno de los canales de comunicación detallados abajo, pues si bien físicamente nos encontramos en Trenque Lauquen (la perla del oeste),  la interne esta para facilitar el trabajo en grupo y a la distancia. Plataformas:
 
