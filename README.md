@@ -24,7 +24,7 @@ El plan de trabajo esta marcado por la fecha de arribo de Droter a Argentina que
 - Analizar lo sucedido.
 - Evaluar los pasos a seguir.
 
-Si Usted quiere ver algo mas detallado, lo puede ver aquí.
+Si Usted quiere ver algo mas detallado, lo puede ver [aquí](https://github.com/rje1974/ros_lawn_tractor/wiki/Plan-De-Trabajo).
 
 ## Participación.
 Este es un proyecto abierto e inclusivo, o sea que mientras tengas ganas de ayudar estas invitado a participar. Necesitamos gente con conocimientos en: mecánica, electrónica, programación, cocción de carne, documentación, cebado de mate y cosas que todavia no sabemos en las cuales seguro cuadras. Solo debe de presentarse en alguno de los canales de comunicación detallados abajo, pues si bien físicamente nos encontramos en Trenque Lauquen (la perla del oeste),  la interne esta para facilitar el trabajo en grupo y a la distancia. Plataformas:
