@@ -2,7 +2,7 @@
 
 # Proyecto Pochito.
 ## Objetivo.
-Este proyecto tiene como objetivo lograr reproducir en Argentina todo el proceso de planificacion, desarrollo y construcción del robot con el que Matt Dotter se presento en la [AgBot 2019](https://ag.purdue.edu/agBOT/). En su sintesis es un ejemplo de implementación de ROS sobre Minitractor Corta Cesped y por lo tanto se inicia como una [bifurcación](https://tinyurl.com/y37ajy6b) del proyecto [ROS Lawn Tractor](https://github.com/ros-agriculture/ros_lawn_tractor) de ROS Agriculture. Concideramos que la reproducción de ese proyecto es un ejercicio practico para que la academia, industria metalmecánica y el sector agropecuarios de argentina vean el potencial de este conjuntos de tecnologías y se produzca la [apropiación este conjunto de tecnologías](https://es.wikipedia.org/wiki/Apropiaci%C3%B3n_tecnol%C3%B3gica). Con el objeto de lograr lo anterior se hará incapié en la documentacion y por esto le pedimos que navegue [nuestra wiki](https://github.com/rje1974/ros_lawn_tractor/wiki), que es el corazón del proyecto. Esas descripciones incluyen: el software, hardware, comentarios, esquemas del proceso y la experiencia misma de la implementación de ROS en un "tractorcito". [Documentar, documentar y documentar....](https://github.com/rje1974/ros_lawn_tractor/wiki)
+Este proyecto tiene como objetivo lograr reproducir en Argentina todo el proceso de planificación, desarrollo y construcción del robot con el que Matt Dotter se presento en la [AgBot 2019](https://ag.purdue.edu/agBOT/). En su síntesis es un ejemplo de implementación de ROS sobre Mini-Tractor Corta Césped y por lo tanto se inicia como una [bifurcación](https://tinyurl.com/y37ajy6b) del proyecto [ROS Lawn Tractor](https://github.com/ros-agriculture/ros_lawn_tractor) de ROS Agriculture. Consideramos que la reproducción de ese proyecto es un ejercicio practico para que la academia, industria metal-mecánica y el sector agropecuarios de argentina vean el potencial de este conjuntos de tecnologías y se produzca la [apropiación este conjunto de tecnologías](https://es.wikipedia.org/wiki/Apropiaci%C3%B3n_tecnol%C3%B3gica). Con el objeto de lograr lo anterior se hará hincapié en la documentación y por esto le pedimos que navegue [nuestra wiki](https://github.com/rje1974/ros_lawn_tractor/wiki), que es el corazón del proyecto. Esas descripciones incluyen: el software, hardware, comentarios, esquemas del proceso y la experiencia misma de la implementación de ROS en un "tractorcito". [Documentar, documentar y documentar....](https://github.com/rje1974/ros_lawn_tractor/wiki)
 
 ![Tractor que presento Matt en la AgBot 2019](https://raw.githubusercontent.com/rje1974/ros_lawn_tractor/master/site/photo/site/ros_lawn_tractor.png)
 
@@ -21,17 +21,15 @@ El plan de trabajo esta marcado por la fecha de arribo de Droter a Argentina que
 - Reproducir el proceso en modo prueba.
 - Ejecutar el proyecto.
 - Documentar la ejecución del proceso.
-- Analizar lo sucedido.
-- Evaluar los pasos a seguir.
 
 Si Usted quiere ver algo mas detallado, lo puede ver [aquí](https://github.com/rje1974/ros_lawn_tractor/wiki/Plan-De-Trabajo).
 
 ## Participación.
-Este es un proyecto abierto e inclusivo, o sea que mientras tengas ganas de ayudar estas invitado a participar. Necesitamos gente con conocimientos en: mecánica, electrónica, programación, cocción de carne, documentación, cebado de mate y cosas que todavia no sabemos en las cuales seguro cuadras. Solo debe de presentarse en alguno de los canales de comunicación detallados abajo, pues si bien físicamente nos encontramos en Trenque Lauquen (la perla del oeste),  la interne esta para facilitar el trabajo en grupo y a la distancia. Plataformas:
+Este es un proyecto abierto e inclusivo, o sea que mientras tengas ganas de ayudar estas invitado a participar. Necesitamos gente con conocimientos en: mecánica, electrónica, programación, cocción de carne, documentación, cebado de mate y cosas que todavía no sabemos en las cuales seguro cuadras. Solo debe de presentarse en alguno de los canales de comunicación detallados abajo, pues si bien físicamente nos encontramos en Trenque Lauquen (la perla del oeste),  la interne esta para facilitar el trabajo en grupo y a la distancia. Plataformas:
 
 + [Unirse al Grupo Whatsapp](https://chat.whatsapp.com/FK1hUuH3ac3ExXbGrR0gs1) ROS Agricultura Argentina. Aca se mueve la cosa.
 
-+ [Unirse al Grupo SLACK](https://rosagriculture.slack.com/messages/GK8UTNMGS) ROS Agricultura Argentina. Lo hicimos porque los ROS jodieron que lo querian usar.
++ [Unirse al Grupo SLACK](https://rosagriculture.slack.com/messages/GK8UTNMGS) ROS Agricultura Argentina. Lo hicimos porque los ROS jodieron que lo querían usar.
 
 ## Dudas...?
 Envie un [correo](mailto:juaneduardoriva@gmail.com) o [ Whatsapp](https://wa.me/5492392520561) al coordinador del grupo.
