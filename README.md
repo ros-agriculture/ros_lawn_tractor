@@ -11,16 +11,16 @@ Este proyecto tiene como objetivo lograr reproducir en Argentina todo el proceso
 ## Contexto.
 Durante los últimos tres años he asistido a la AgBot, pude constatar personalmente el crecimiento de ROS en la escena de robotización de agro y en estas reuniones conocí a [Matt Droter](https://github.com/droter). Como una cosa lleva a la otra Matt se ofreció a darnos una mano en el desarrollo de un prototipo y los que participamos en este proyecto creemos que es algo muy importante para el sector agropecuario y digno de dedicar tiempo. Claramente como objetivo principal es todos los documentos queden en español y posteriormente si nos da tiempo la vida en portugués (brasilero). La [wiki de este proyecto](https://github.com/rje1974/ros_lawn_tractor/wiki) donde se pone TODO.
 
-## Plan de trabajo.
-El plan de trabajo esta marcado por la fecha de arribo de Droter a Argentina que es el viernes 16 de agosto de 2019 y su partida el día 25 de agosto de 2019, . En las generales el plan de trabajo contempla lo siguiente.
-- Organizar el viaje del Sr. Droter.
-- Comunicar el proyecto.
-- Planear el proyecto.
-- Acopiar los materiales.
-- Probar los materiales.
-- Reproducir el proceso en modo prueba.
-- Ejecutar el proyecto.
-- Documentar la ejecución del proceso.
+## Plan de trabajo. (04/08/2019)
+El plan de trabajo esta marcado por la fecha de arribo de Droter a Argentina que es el viernes 16 de agosto de 2019 y su partida el día 25 de agosto de 2019. En las generales el plan de trabajo contempla lo siguiente:
+- Documentar el proceso y la ejecución del proyecto. (En proceso)
+- Organizar el viaje del Sr. Droter. (Hecho)
+- Comunicar el proyecto. (En proceso)
+- Planear el proyecto. (En proceso)
+- Acopiar los materiales. (En proceso)
+- Probar los materiales en Trenque Lauquen. (Próximamente)
+- Reproducir el proceso en modo prueba en Buenos Aires. (Próximamente)
+- Ejecutar el proyecto en el [punto digital de Trenque Lauquen](http://pct.trenquelauquen.gov.ar/). (Proximamente)
 
 Si Usted quiere ver algo mas detallado, lo puede ver [aquí](https://github.com/rje1974/ros_lawn_tractor/wiki/Plan-De-Trabajo).
 
@@ -30,6 +30,10 @@ Este es un proyecto abierto e inclusivo, o sea que mientras tengas ganas de ayud
 + [Unirse al Grupo Whatsapp](https://chat.whatsapp.com/FK1hUuH3ac3ExXbGrR0gs1) ROS Agricultura Argentina. Aca se mueve la cosa.
 
 + [Unirse al Grupo SLACK](https://rosagriculture.slack.com/messages/GK8UTNMGS) ROS Agricultura Argentina. Lo hicimos porque los ROS jodieron que lo querían usar.
+
+## Que nos esta haciendo falta...?
+
++ Un lugar para trabajar en Buenos Aires entre el 17 y el 20 de agosto de 2019. Deberia tener las siguientes conficiones: Que se pueda hacer ruido, que tenga algun soporte de herramientas y que se pueda usar feriados y fines de semana.
 
 ## Dudas...?
 Envie un [correo](mailto:juaneduardoriva@gmail.com) o [ Whatsapp](https://wa.me/5492392520561) al coordinador del grupo.
