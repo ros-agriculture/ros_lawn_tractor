@@ -25,15 +25,12 @@ El plan de trabajo esta marcado por la fecha de arribo de Droter a Argentina que
 Si Usted quiere ver algo mas detallado, lo puede ver [aquí](https://github.com/rje1974/ros_lawn_tractor/wiki/Plan-De-Trabajo).
 
 ## Participación.
-Este es un proyecto abierto e inclusivo, o sea que mientras tengas ganas de ayudar estas invitado a participar. Necesitamos gente con conocimientos en: mecánica, electrónica, programación, cocción de carne, documentación, cebado de mate y cosas que todavía no sabemos en las cuales seguro cuadras. Solo debe de presentarse en alguno de los canales de comunicación detallados abajo, pues si bien físicamente nos encontramos en Trenque Lauquen (la perla del oeste),  la interne esta para facilitar el trabajo en grupo y a la distancia. Plataformas:
-
-+ [Unirse al Grupo Whatsapp](https://chat.whatsapp.com/FK1hUuH3ac3ExXbGrR0gs1) ROS Agricultura Argentina. Aca se mueve la cosa.
-
-+ [Unirse al Grupo SLACK](https://rosagriculture.slack.com/messages/GK8UTNMGS) ROS Agricultura Argentina. Lo hicimos porque los ROS jodieron que lo querían usar.
+Este es un proyecto abierto en todos los sentidos. Usted esta invitado a trabajar con el equipo y solo debe de presentarse en alguna de las siguientes plataformas: [Unirse al grupo de Whatsapp](https://chat.whatsapp.com/FK1hUuH3ac3ExXbGrR0gs1) o [al grupo SLACK](https://app.slack.com/client/T676UDNG3/GK8UTNMGS), enviar un [correo](mailto:juaneduardoriva@gmail.com) o [un Whatsapp](https://wa.me/5492392520561) al coordinador.
 
 ## Que nos esta haciendo falta...?
 
-+ Un lugar para trabajar en Buenos Aires entre el 17 y el 20 de agosto de 2019. Deberia tener las siguientes conficiones: Que se pueda hacer ruido, que tenga algun soporte de herramientas y que se pueda usar feriados y fines de semana.
++ Algún entusiasta del tema para trabajar y apoyarnos en Buenos Aires.
++ SUERTE.
 
 ## Dudas...?
 Envie un [correo](mailto:juaneduardoriva@gmail.com) o [ Whatsapp](https://wa.me/5492392520561) al coordinador del grupo.
@@ -45,7 +42,8 @@ Agradecemos como gente de bien que somos a las siguientes personas:
 * Los pibes de Laurus. Porque fueron los primeros que "prometieron" ayudar.
 * [David Tolosa](https://github.com/davidtolosa). Porque fue el primero en sumarse y ponerse a trabajar.
 
-## Licenciamiento
+
+### Licenciamiento.
 ros_lawn_tractor esta bajo licencia MIT. Todo usuario de este software deberá indemnizar y mantener libre de daño y responsabilidad a ROS Agriculture y sus directores, oficiales, empleado, accionistas, afiliados, sub-contratistas, y clientes de y contra todo tipo de alegatos, reclamos, acciones legales, petición, demandas, daños, reclamos, obligaciones, perdidas, acuerdo, juicios, costos, expensas (incluidas comisiones y costos de abogados) que se pudieran generar de forma directa o indirecta del uso de este software por el usuario o quien fuera.
 
 ESTO ES SOFTWARE DE CALIDAD ALFA PARA USO EN INVESTIGACIÓN SOLAMENTE. ESTO NO ES UN PRODUCTO. USTED ES RESPONSABLE DE CUMPLIMENTAR LAS LEYES LOCALES Y REGULACIONES APLICABLES. NO HAY GARANTÍA DE NINGÚN TIPO SOBRE ESTOS PRODUCTOS.
