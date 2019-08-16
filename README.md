@@ -11,7 +11,7 @@ Este proyecto tiene como objetivo lograr reproducir en Argentina todo el proceso
 ## Contexto.
 Durante los últimos tres años he asistido a la [AgBot](https://ag.purdue.edu/agBOT/), pude constatar personalmente el crecimiento de ROS en la escena de robotización de agro y en estas reuniones conocí a [Matt Droter](https://github.com/droter). Como una cosa lleva a la otra, Matt se ofreció a darnos una mano en el desarrollo de un prototipo.
 
-## Plan de trabajo. (04/08/2019)
+## Plan de trabajo. (15/08/2019)
 El plan de trabajo esta marcado por la fecha de arribo de Droter a Argentina que es el viernes 16 de agosto de 2019 y su partida el día 25 de agosto de 2019. En las generales el plan de trabajo contempla lo siguiente:
 - Documentar el proceso y la ejecución del proyecto. (En proceso)
 - Organizar el viaje del Sr. Droter. (Hecho)
@@ -31,6 +31,7 @@ Este es un proyecto abierto en todos los sentidos. Usted esta invitado a trabaja
 
 + Algún entusiasta del tema para trabajar y apoyarnos en Buenos Aires.
 + Poder de cálculo para el simulador.
++ Algún repuesto del que todavía no sabemos.
 + SUERTE.
 
 ## Dudas...?
