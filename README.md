@@ -1,12 +1,12 @@
-![Logo ROS Agriculture](https://raw.githubusercontent.com/rje1974/ros_lawn_tractor/master/site/photo/18500762.png)
+![Logo ROS Agriculture](https://raw.githubusercontent.com/rje1974/Proyecto-Pochito/master/site/Imagenes_Site/18500762.png)
 
 # Proyecto Pochito.
 ## Objetivo.
 Este proyecto tiene como objetivo lograr reproducir en Argentina todo el proceso de planificación, desarrollo y construcción del robot con el que Matt Dotter se presento en la [AgBot 2019](https://ag.purdue.edu/agBOT/). En su síntesis es un ejemplo de implementación de ROS sobre Mini-Tractor Corta Césped y por lo tanto se inicia como una [bifurcación](https://tinyurl.com/y37ajy6b) del proyecto [ROS Lawn Tractor](https://github.com/ros-agriculture/ros_lawn_tractor) de ROS Agriculture. Consideramos que la reproducción de ese proyecto es un ejercicio practico para que la academia, industria metal-mecánica y el sector agropecuarios de argentina vean el potencial de este conjuntos de tecnologías y se produzca la [apropiación este conjunto de tecnologías](https://es.wikipedia.org/wiki/Apropiaci%C3%B3n_tecnol%C3%B3gica). Con el objeto de lograr lo anterior se hará hincapié en la documentación y por esto le pedimos que navegue [nuestra wiki](https://github.com/rje1974/ros_lawn_tractor/wiki), que es el corazón del proyecto. Esas descripciones incluyen: el software, hardware, comentarios, esquemas del proceso y la experiencia misma de la implementación de ROS en un "tractorcito". [Documentar, documentar y documentar....](https://github.com/rje1974/ros_lawn_tractor/wiki)
 
-![Tractor que presento Matt en la AgBot 2019](https://raw.githubusercontent.com/rje1974/ros_lawn_tractor/master/site/photo/site/ros_lawn_tractor.png)
+![Tractor que presento Matt en la AgBot 2019](https://raw.githubusercontent.com/rje1974/Proyecto-Pochito/master/site/Imagenes_Site/ros_lawn_tractor.png)
 
-![Tractor que presento Matt en la AgBot 2019](https://raw.githubusercontent.com/rje1974/ros_lawn_tractor/master/site/photo/site/lawn_tractor.png)
+![Tractor que presento Matt en la AgBot 2019](https://raw.githubusercontent.com/rje1974/Proyecto-Pochito/master/site/Imagenes_Site/lawn_tractor.png)
 
 ## Contexto.
 Durante los últimos tres años he asistido a la AgBot, pude constatar personalmente el crecimiento de ROS en la escena de robotización de agro y en estas reuniones conocí a [Matt Droter](https://github.com/droter). Como una cosa lleva a la otra Matt se ofreció a darnos una mano en el desarrollo de un prototipo y los que participamos en este proyecto creemos que es algo muy importante para el sector agropecuario y digno de dedicar tiempo. Claramente como objetivo principal es todos los documentos queden en español y posteriormente si nos da tiempo la vida en portugués (brasilero). La [wiki de este proyecto](https://github.com/rje1974/ros_lawn_tractor/wiki) donde se pone TODO.
@@ -37,7 +37,7 @@ Envie un [correo](mailto:juaneduardoriva@gmail.com) o [ Whatsapp](https://wa.me/
 
 ## Agradecimientos.
 Agradecemos como gente de bien que somos a las siguientes personas:
-* Matt Droter. Por obvias razones.
+* [@droter](https://github.com/droter). Por obvias razones.
 * María Riva. Mi hermana que en su inmensa generosidad ha traído mucha de la electrónica del proyecto en sus viajes.
 * Los pibes de Laurus. Porque fueron los primeros que "prometieron" ayudar.
 * [David Tolosa](https://github.com/davidtolosa). Porque fue el primero en sumarse y ponerse a trabajar.
